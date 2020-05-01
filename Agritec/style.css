@@ -1,0 +1,52 @@
+body{
+    background-image: url(http://precedentinfo.kg/wp-content/uploads/2017/06/370731-svetik-1200x675.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat ;
+    background-color: rgb(8, 87, 1);
+    margin: 0px;
+}
+
+h1{
+    text-transform: uppercase;
+    color: green;
+}
+
+#logo{
+    border-radius: 50%;
+    height: 65px;
+    width: 65px;
+    margin: 1px;
+    margin-top: 5px;
+    margin-left: 40px;
+    margin-right: 5px;
+    margin-bottom: -20px;
+}
+
+#personagem{
+    margin-top: 130px;
+    margin-left: 380px;
+}
+
+#caixaTexto{
+    height: 400px;
+    width: 400px;
+    border: 1px;
+    position: absolute;
+    z-index: -1;
+    margin-left: -40px;
+}
+
+#Texto{
+    width: 300px;
+    height: auto;
+    margin-top: -610;
+    margin-left: 480px;
+    padding: 20px;
+}
+
+#Texto p{
+    text-align: justify;
+    margin-top: 55px;
+    font-size: 15px;
+}
